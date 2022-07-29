@@ -1,0 +1,51 @@
+*
+{
+	font-family:Bahnschrift;
+}
+
+.balance
+{
+	text-align: center;
+	font-size: 150%;
+}
+.container-1
+{
+	border-right: 2px solid rgba(0,0,0,0.7);
+	height: 80vh;
+}
+.initial_balance
+{
+
+	font-size: 280%;
+	margin-top: 30%;
+}
+.service-1
+{
+	padding: 100px 80px;
+}
+.b
+{
+	
+	border-bottom:2px solid black;
+}
+.v
+{
+	border-right: 2px solid black;
+
+}
+.icon{
+	font-size: 35px;
+
+}
+.link
+{
+	font-size: 20px;
+	color:#808080;
+}
+.link:hover
+{
+	color: #a9a9a9;
+	text-decoration: none;
+	
+
+}
